@@ -27,10 +27,9 @@ accurate, scalable 3D — not experiments.
 **HomeKit3D** — a white-label, real-time 3D
 home planner framework already used in
 production by multiple client teams. 
+*Watch real-time updates and interactive 3D planning.*
 
 ![HomeKit3D real-time demo](homeplanner.gif)
-
-*Watch real-time updates and interactive 3D planning.*
 
 If you're building or scaling a 3D product in
 these industries and want to explore what’s
