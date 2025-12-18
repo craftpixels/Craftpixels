@@ -22,7 +22,7 @@ accurate, scalable 3D — not experiments.
 home planner framework already used in
 production by multiple client teams. 
 
-![HomeKit3D real-time demo](homekit3d-demo.gif)
+![HomeKit3D real-time demo](Home planner realtime.gif)
 
 *Watch real-time updates and interactive 3D planning.*
 
