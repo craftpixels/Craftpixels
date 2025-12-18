@@ -28,12 +28,11 @@ accurate, scalable 3D — not experiments.
 home planner framework already used in
 production by multiple client teams. 
 
-![HomeKit3D real-time demo](Home planner realtime.gif)
+![HomeKit3D real-time demo](homeplanner.gif)
 
 *Watch real-time updates and interactive 3D planning.*
 
-
-If you're evaluating real-time 3D for your
-product or platform and want to see what’s
+If you're building or scaling a 3D product in
+these industries and want to explore what’s
 possible without starting from scratch,
-feel free to connect.
+feel free to **connect or request a demo**. 
