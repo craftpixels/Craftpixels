@@ -17,6 +17,12 @@ accurate, scalable 3D — not experiments.
 - Furniture & modular manufacturing brands
 - eCommerce & jewellery product companies
 
+### Industries & Use Cases
+- Interior & home planning software
+- Furniture design & modular manufacturing
+- eCommerce product visualization & customization
+- Jewellery product configurators
+
 ### Highlight
 **HomeKit3D** — a white-label, real-time 3D
 home planner framework already used in
